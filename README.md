@@ -1,4 +1,4 @@
-# ⚡ Simran Agarwal - Portfolio
+# ⚡ Mridul Singhal - Portfolio
 
 <div align="center">
   <h3>✨ Building Digital Experiences with Next.js & Modern Web Tech</h3>
