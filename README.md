@@ -14,7 +14,7 @@
 
 <br />
 
-[![Portfolio Preview](public/preview.png)](https://simranagarwal.com)
+[![Portfolio Preview](public/preview.png)](https://mridulsinghal.com)
 
 ---
 
