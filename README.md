@@ -3,7 +3,7 @@
 <div align="center">
   <h3>✨ Building Digital Experiences with Next.js & Modern Web Tech</h3>
   <p>
-    <a href="https://portfolio-website.officialsimranagarwal.com"><strong>Visit Live Site »</strong></a>
+    <a href="https://mridulsinghal.com"><strong>Visit Live Site »</strong></a>
     <br />
     <br />
     <a href="https://github.com/officialsimranagarwal/portfolio_website/issues">Report Bug</a>
